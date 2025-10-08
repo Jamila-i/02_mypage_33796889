@@ -23,7 +23,7 @@ const html = `<!doctype html>
 <body>
   <h1>Hi, I’m Jamila</h1>
   <h2>About Myself</h2>
-  <p>I’m a third-year student studying BSc Computer Science at Goldsmiths, University of London.</p>
+  <p>I’m a third-year student studying BSc Computer Science at Goldsmiths, University of London. I'm interested in ux/ui design.</p>
 </body>
 </html>`;
 
