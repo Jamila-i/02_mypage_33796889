@@ -15,15 +15,15 @@ const html = `<!doctype html>
       max-width: 70ch;
     }
     h1 { margin-bottom: .25rem; }
-    h2 { margin-top: 1rem; color: #842f57ff; font-weight: 600; }
+    h2 { margin-top: 1rem; color: #692a91ff; font-weight: 600; }
     p  { margin-top: 1rem; }
   </style>
 </head>
 
 <body>
-  <h1>Hi, I’m Jamila</h1>
+  <h1>Hi, I’m Jamila Ibrahim — updated version!</h1>
   <h2>About Myself</h2>
-  <p>I’m a third-year student studying BSc Computer Science at Goldsmiths, University of London. I'm interested in ux/ui design.</p>
+  <p>I’m a third-year student studying BSc Computer Science at Goldsmiths, University of London. I'm interested in ux/ui design. I enjoy adventuring and exploring new places.</p>
 </body>
 </html>`;
 
